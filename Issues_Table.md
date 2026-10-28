@@ -1,5 +1,5 @@
 
-# Lab 5: Static Code Analysis — Issues Table
+# Lab 5: Static Code Analysis- Issues Table
 
 | No. | Issue | Type / Tool | Original Finding | How It Was Addressed |
 |---:|---|---|---|---|
